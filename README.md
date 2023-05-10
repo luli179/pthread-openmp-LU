@@ -1,2 +1,3 @@
 # pthread-openmp-LU
 高斯消元的基础pthread和基础openmp并行化
+一个平凡算法的cpp文件，一个单独pthread并行化的cpp文件，一个单独openmp并行化的cpp文件，两个与simd结合的cpp文件
